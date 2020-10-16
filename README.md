@@ -2,7 +2,7 @@
 
 ## 💬 You can ask me any meaningful questions
 
-![pic](https://giphy.com/static/img/zoomies.gif =100x100)
+<div align=center><img width="150" height="150" src="https://giphy.com/static/img/zoomies.gif"/></div>
 
 <!--
 **Countra/Countra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
