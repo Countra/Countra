@@ -1,7 +1,5 @@
 # Welcome to my space 😄
 
-## 💬 You can ask me any meaningful questions
-
 <div align=center><img src="https://giphy.com/static/img/zoomies.gif"/></div>
 
 <!--
